@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: cloth 1
+  m_Shader: {fileID: 4800000, guid: d2c68fd7051ea6f428a94a633bb87352, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Backgroud:
+        m_Texture: {fileID: 2800000, guid: 7d6b4b55da3bec74e992a20fa55f58b4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Checkers:
+        m_Texture: {fileID: 2800000, guid: b5658eb78046e1343aabdc523c512659, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Checkers1:
+        m_Texture: {fileID: 2800000, guid: 94f960a671cea904b8a0fa0a3071309b, type: 3}
+        m_Scale: {x: 0.24, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diffuse:
+        m_Texture: {fileID: 2800000, guid: 84508b93f15f2b64386ec07486afc7a3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ToonRamp:
+        m_Texture: {fileID: 2800000, guid: 52e66a9243cdfed44b5e906f5910d35b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ao:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _color:
+        m_Texture: {fileID: 2800000, guid: 2aa7a4706b759aa409c13fcdaf96f5f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ASEOutlineWidth: 0.002
+    - _Basecolorfix: 0
+    - _Float0: 9.4
+    - _HighLightFix: 0.27
+    - _HighLightPower: 7.626524
+    - _MaxColor: 1
+    - _Maxcolor: 0.75
+    - _MinColor: 0.77
+    - _RimOffset: 5.09
+    - _RimPower: 0
+    - __dirty: 0
+    - _colorfix: 0
+    - _fix: 1
+    - _minshadow: 0.33
+    - _power: 9.4
+    m_Colors:
+    - _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 0}
+    - _RimColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector0: {r: 1, g: 1, b: 0, a: 0}
+    - _backFix: {r: 1, g: 1, b: 0, a: 0}

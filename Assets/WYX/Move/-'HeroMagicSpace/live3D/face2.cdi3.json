@@ -1,0 +1,17 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "eye"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "mouth"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": []
+}

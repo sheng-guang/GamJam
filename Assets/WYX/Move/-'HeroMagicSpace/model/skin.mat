@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: skin
+  m_Shader: {fileID: 4800000, guid: 82f18703a3a319948a7dae371057c0a4, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Backgroud:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Backgroud1:
+        m_Texture: {fileID: 2800000, guid: 41394ca5afd09854ca72409192d08fe0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diffuse:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _alpha:
+        m_Texture: {fileID: 2800000, guid: 052f489cfea3afc43856e3e724d37ced, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ao:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _clothalpha:
+        m_Texture: {fileID: 2800000, guid: df1ac378de92b8045a147a432860784f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ASEOutlineWidth: 0
+    - _Cutoff: -1.4
+    - _MaxColor: 0.75
+    - _Maxshadow: 0.9
+    - _MinColor: 0.6
+    - _Minshadow: 0.71
+    - _RimOffset: 5.09
+    - _RimPower: 4.6
+    - __dirty: 0
+    - _alphatest: 0.5
+    - _clothalphafix: 1
+    - _colorfix: 0.07
+    - _envlight: 1
+    - _fix: 1
+    - _fix1: 1
+    m_Colors:
+    - _ASEOutlineColor: {r: 0.8431373, g: 0.7294118, b: 0.6627451, a: 0}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 0}
+    - _clothcolor: {r: 0, g: 0, b: 0, a: 0}
+    - _diffuseColor: {r: 1, g: 0.8274511, b: 0.7098039, a: 1}
+    - _skin: {r: 1, g: 0.8274511, b: 0.7098039, a: 1}
+    - _skinbase: {r: 0.98823535, g: 0.8705883, b: 0.82745105, a: 1}
+    - _stocking: {r: 0, g: 0, b: 0, a: 0}
+    - _suitcolor: {r: 0, g: 0, b: 0, a: 0}
